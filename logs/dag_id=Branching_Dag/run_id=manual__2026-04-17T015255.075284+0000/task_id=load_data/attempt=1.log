@@ -1,0 +1,7 @@
+{"timestamp":"2026-04-17T01:53:00.284785Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-04-17T01:53:00.287466Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-17T01:53:00.374232Z","level":"info","event":"Loading data:","logger":"task.stdout"}
+{"timestamp":"2026-04-17T01:53:00.374786Z","level":"info","event":"API: [2, 4, 6]","logger":"task.stdout"}
+{"timestamp":"2026-04-17T01:53:00.375650Z","level":"info","event":"DB: [30, 60, 90]","logger":"task.stdout"}
+{"timestamp":"2026-04-17T01:53:00.376007Z","level":"info","event":"S3: [400, 800, 1200]","logger":"task.stdout"}
+{"timestamp":"2026-04-17T01:53:00.374223Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
