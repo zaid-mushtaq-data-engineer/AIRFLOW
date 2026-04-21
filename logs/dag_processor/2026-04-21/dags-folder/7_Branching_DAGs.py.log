@@ -1,0 +1,10 @@
+{"timestamp":"2026-04-21T00:40:44.978450Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:41:15.987133Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:41:46.842973Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:42:17.462671Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:42:48.488715Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:43:19.369676Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:43:49.875282Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:44:20.204933Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:44:50.441571Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T00:45:20.705860Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/7_Branching_DAGs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
